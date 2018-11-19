@@ -15,5 +15,5 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
-
+./nbproject
 #from github/gitignore
